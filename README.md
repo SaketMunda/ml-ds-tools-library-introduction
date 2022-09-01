@@ -31,3 +31,19 @@ This repo helps to setup [development environment](https://github.com/SaketMunda
   Terminate the process from terminal when done
  
   Then deactivate conda, `conda deactivate`
+  
+## Share Conda Environment
+  
+   If you want to share your Conda Env with other devs then you can do in couple of ways,
+    - Sharing the whole project folder, which could be expensive as lots of MBs of data in form of packages and files
+    - Share a .yml file of your conda environment 
+    
+   For 2nd option, we need .yml file of your conda environment, for this we will export the environment as YAML file called environment.yml
+
+   **Command**:
+
+   ***TO Export***
+   `conda env export —prefix [env_folder_path] > [file_name.yml]`
+
+   ***TO Create Env using .yml file***
+   `conda env create —file [file_name.yml] —name [environment_name]`
