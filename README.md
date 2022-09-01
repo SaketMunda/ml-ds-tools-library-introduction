@@ -35,8 +35,8 @@ This repo helps to setup [development environment](https://github.com/SaketMunda
 ## Share Conda Environment
   
    If you want to share your Conda Env with other devs then you can do in couple of ways,
-    - Sharing the whole project folder, which could be expensive as lots of MBs of data in form of packages and files
-    - Share a .yml file of your conda environment 
+   1. Sharing the whole project folder, which could be expensive as lots of MBs of data in form of packages and files
+   2. Share a .yml file of your conda environment 
     
    For 2nd option, we need .yml file of your conda environment, for this we will export the environment as YAML file called environment.yml
 
