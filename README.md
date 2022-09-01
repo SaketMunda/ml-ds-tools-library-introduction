@@ -11,3 +11,23 @@ This repo helps to setup [development environment](https://github.com/SaketMunda
 - Scikit Learn
 
 ## Environment Setup
+
+  Download [MINIConda](https://docs.conda.io/en/latest/miniconda.html)
+
+  Create a folder say, *sample_project*
+  
+  Setup development environment and install required tools using conda, 
+  `conda create —prefix ./env pandas numpy matplotlib scikit-learn`
+  
+  Activate conda,
+  `conda activate environment_directory`
+  
+  List out the active environment using `conda env list`
+ 
+  Use `conda install [package/tool_name]`, if any tool is missed for the installation in the above step
+
+  Now your environment is setup, open Jupyter Notebook as the browser editor for writing python code
+ 
+  Terminate the process from terminal when done
+ 
+  Then deactivate conda, `conda deactivate`
