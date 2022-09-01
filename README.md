@@ -125,8 +125,18 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 
 ## Matplotlib
 
+## Workbooks
 
-## References
-- Here is a simple footnote[^1].
+Here are some practice workbooks for different libraries,
+
+- [Python Exercise](https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1)
+- [Pandas Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/pandas-exercises.ipynb)
+- [NumPy Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/numpy-exercises.ipynb)
+
+## Resources
+- [A Visual Intro to NumPy and Data Represenation](https://jalammar.github.io/visual-numpy/)
+- [The Basics of NumPy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html)
+
+
 
    
