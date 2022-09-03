@@ -1,5 +1,17 @@
 # Machine Learning & Data Science Tools & Libraries
 
+## Contents
+
+- [Introduction]()
+- [Environment Setup](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#environment-setup)
+- [Share Conda Environment]()
+- [Pandas]()
+- [NumPy]()
+- [Matplotlib]()
+- [Workbooks]()
+- [Resources]()
+- [Special Thanks To !]()
+
 ## Introduction
 
 This repo helps to setup [development environment](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#environment-setup) for data science and machine learning projects and also the introduction of some tools and libraries like,
@@ -125,6 +137,28 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 
 ## Matplotlib
 
+**Visualization of Data**
+
+> What
+
+- Python plotting library
+- It allow to turn the data into charts & graphs, figures
+
+> Why
+
+- Built on NumPy arrays (& python)
+- Integrates directly with Pandas
+- Can create basic or advance plots
+- Simple to use interface(once you get the foundation, *the basic*)
+
+> Topics covered in this introduction
+
+- matplotlib Workflow
+- Importing matplotlib & the 2 ways of plotting
+- Plotting data from NumPy arrays
+- Customizing plots
+- Saving & Sharing plots
+
 ## Workbooks
 
 Here are some practice workbooks for different libraries,
@@ -136,9 +170,12 @@ Here are some practice workbooks for different libraries,
 - [ ] [Matplotlib Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/matplotlib-exercises.ipynb)
 
 ## Resources
+- [Zero To Mastery Machine Learning & Data Science Program](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
 - [A Visual Intro to NumPy and Data Represenation](https://jalammar.github.io/visual-numpy/)
 - [The Basics of NumPy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html)
 
-
+## Special Thanks To!
+- [Daniel Bourke](https://twitter.com/mrdbourke)
+- [Andrei Neagoie](https://twitter.com/andreineagoie)
 
    
