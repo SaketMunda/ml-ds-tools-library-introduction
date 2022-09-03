@@ -100,7 +100,7 @@ It is used to explore data, analyse data, manipulate data when we use python for
 - integrated with many other data science and machine learning python tools
 - helps you get your data ready for ML
 
-> Topics covered in this introduction
+> [Topics covered in this introduction](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/introduction-to-pandas.ipynb)
 
 - Most useful functions
 - Pandas datatypes
@@ -125,7 +125,7 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 - Vectorization via broadcasting (avoiding loops)
 - backbone of other scientific packages like pandas
 
-> Topics covered in this introduction
+> [Topics covered in this introduction](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/introduction-to-numpy.ipynb)
 
 - Most useful functions
 - NumPy datatypes & attributes
@@ -151,7 +151,7 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 - Can create basic or advance plots
 - Simple to use interface(once you get the foundation, *the basic*)
 
-> Topics covered in this introduction
+> [Topics covered in this introduction](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/introduction-to-matplotlib.ipynb)
 
 - matplotlib Workflow
 - Importing matplotlib & the 2 ways of plotting
