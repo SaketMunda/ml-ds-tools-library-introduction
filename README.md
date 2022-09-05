@@ -163,7 +163,7 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 
 Here are some practice workbooks for different libraries,
 
-- [ ] [Python Exercise](https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1)
+- [x] [Python Exercise](https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1)
 - [ ] [Pandas Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/pandas-exercises.ipynb)
 - [ ] [NumPy Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/numpy-exercises.ipynb)
 - [ ] [Regex Exercise](https://regexone.com/lesson/introduction_abcs)
