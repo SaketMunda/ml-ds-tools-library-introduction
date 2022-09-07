@@ -8,7 +8,7 @@
 - [Pandas](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#pandas)
 - [NumPy](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#numpy)
 - [Matplotlib](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#matplotlib)
-- [Scikit-Learn](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#matplotlib)
+- [Scikit-Learn](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#scikit-learn)
 - [Workbooks](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#workbooks)
 - [Resources](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#resources)
 - [Special Thanks To !](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#special-thanks-to)
@@ -178,6 +178,7 @@ Here are some practice workbooks for different libraries,
 - [The Basics of NumPy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html)
 - [Feature Scaling with scikit-learn By Ben Alex Keen](https://benalexkeen.com/feature-scaling-with-scikit-learn/)
 - [Feature Scaling : Why it's required By Rahul Saini](https://rahul-saini.medium.com/feature-scaling-why-it-is-required-8a93df1af310)
+- [Decision Trees & Explanation of Random Forest By Will Koehrsen](https://willkoehrsen.github.io/machine%20learning/tutorial/an-implementation-and-explanation-of-the-random-forest-in-python/)
 
 ## Special Thanks To!
 - [Daniel Bourke](https://twitter.com/mrdbourke)
