@@ -8,6 +8,7 @@
 - [Pandas](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#pandas)
 - [NumPy](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#numpy)
 - [Matplotlib](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#matplotlib)
+- [Scikit-Learn](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#matplotlib)
 - [Workbooks](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#workbooks)
 - [Resources](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#resources)
 - [Special Thanks To !](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/README.md#special-thanks-to)
@@ -19,7 +20,7 @@ This repo helps to setup [development environment](https://github.com/SaketMunda
 - [x] [Jupyter Notebook](https://jupyter.org/)
 - [x] [Pandas](https://pandas.pydata.org/)
 - [x] [Numpy](https://numpy.org/)
-- [ ] [Matplotlib](https://matplotlib.org/)
+- [x] [Matplotlib](https://matplotlib.org/)
 - [ ] [Scikit Learn](https://scikit-learn.org/stable/)
 
 ## Environment Setup
@@ -159,6 +160,8 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 - Customizing plots
 - Saving & Sharing plots
 
+## Scikit-Learn
+
 ## Workbooks
 
 Here are some practice workbooks for different libraries,
@@ -173,6 +176,8 @@ Here are some practice workbooks for different libraries,
 - [Zero To Mastery Machine Learning & Data Science Program](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
 - [A Visual Intro to NumPy and Data Represenation](https://jalammar.github.io/visual-numpy/)
 - [The Basics of NumPy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html)
+- [Feature Scaling with scikit-learn By Ben Alex Keen](https://benalexkeen.com/feature-scaling-with-scikit-learn/)
+- [Feature Scaling : Why it's required By Rahul Saini](https://rahul-saini.medium.com/feature-scaling-why-it-is-required-8a93df1af310)
 
 ## Special Thanks To!
 - [Daniel Bourke](https://twitter.com/mrdbourke)
