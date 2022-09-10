@@ -179,6 +179,8 @@ Here are some practice workbooks for different libraries,
 - [Feature Scaling with scikit-learn By Ben Alex Keen](https://benalexkeen.com/feature-scaling-with-scikit-learn/)
 - [Feature Scaling : Why it's required By Rahul Saini](https://rahul-saini.medium.com/feature-scaling-why-it-is-required-8a93df1af310)
 - [Decision Trees & Explanation of Random Forest By Will Koehrsen](https://willkoehrsen.github.io/machine%20learning/tutorial/an-implementation-and-explanation-of-the-random-forest-in-python/)
+- [Beyond Accuracy : Precision and Recall By Will Koehrsen](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+- [ROC and AUC, Clearly Explained By StatQuest](https://www.youtube.com/watch?v=4jRBRDbJemM)
 
 ## Special Thanks To!
 - [Daniel Bourke](https://twitter.com/mrdbourke)
