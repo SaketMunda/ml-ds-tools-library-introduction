@@ -162,7 +162,7 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 
 ## Scikit-Learn
 
-** Python ML Library**, aka *sklearn*
+**Python ML Library**, aka *sklearn*
 
 > What
 
