@@ -21,7 +21,7 @@ This repo helps to setup [development environment](https://github.com/SaketMunda
 - [x] [Pandas](https://pandas.pydata.org/)
 - [x] [Numpy](https://numpy.org/)
 - [x] [Matplotlib](https://matplotlib.org/)
-- [ ] [Scikit Learn](https://scikit-learn.org/stable/)
+- [x] [Scikit Learn](https://scikit-learn.org/stable/)
 
 ## Environment Setup
 
@@ -162,6 +162,31 @@ It has similar to Python lists, then why NumPy and must use tool in Machine Lear
 
 ## Scikit-Learn
 
+**Python ML Library**, aka *sklearn*
+
+> What
+
+- If we have data, Scikit learn helps us to build machine learning models to make predictions or learn patterns within that data & then make predictions.
+- Also implements tools to help us evaluate those predictions whether good or bad ?
+
+> Why 
+
+- Built on NumPy & Matplotlib (and Python)
+- Has many in-built ML models.
+- Methods to evaluate your ML models
+- Very well-designed APIs
+
+> [Topics covered in this introduction](https://github.com/SaketMunda/ml-ds-tools-library-introduction/blob/master/introduction-to-scikit-learn.ipynb)
+
+- A scikit-learn workflow
+- Getting the data ready
+- Choosing a right estimator/model/algorithm for our problems
+- Fitting a model to the data (learning patterns)
+- Making predictions with a model (using patterns)
+- Evaluating model predictions
+- Improving model predictions
+- Saving & Loading models
+
 ## Workbooks
 
 Here are some practice workbooks for different libraries,
@@ -171,6 +196,7 @@ Here are some practice workbooks for different libraries,
 - [ ] [NumPy Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/numpy-exercises.ipynb)
 - [ ] [Regex Exercise](https://regexone.com/lesson/introduction_abcs)
 - [ ] [Matplotlib Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/matplotlib-exercises.ipynb)
+- [ ] [Scikit-Learn Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/scikit-learn-exercises.ipynb)
 
 ## Resources
 - [Zero To Mastery Machine Learning & Data Science Program](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
