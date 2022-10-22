@@ -196,7 +196,7 @@ Here are some practice workbooks for different libraries,
 - [x] [NumPy Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/numpy-exercises.ipynb)
 - [ ] [Regex Exercise](https://regexone.com/lesson/introduction_abcs)
 - [x] [Matplotlib Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/matplotlib-exercises.ipynb)
-- [ ] [Scikit-Learn Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/scikit-learn-exercises.ipynb)
+- [x] [Scikit-Learn Workbook by Daniel Bourke](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/scikit-learn-exercises.ipynb)
 
 ## Resources
 - [Zero To Mastery Machine Learning & Data Science Program](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
