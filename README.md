@@ -56,7 +56,7 @@ This repo helps to setup [development environment](https://github.com/SaketMunda
   Create a folder say, *sample_project*
   
   Setup development environment and install required tools using conda, 
-  - `conda create —prefix ./env pandas numpy matplotlib scikit-learn`
+  - `conda create -—prefix ./env pandas numpy matplotlib scikit-learn`
   
   Activate conda,
   - `conda activate environment_directory`
@@ -82,7 +82,7 @@ This repo helps to setup [development environment](https://github.com/SaketMunda
    **Command**:
 
    ***TO Export***
-   - `conda env export —prefix [env_folder_path] > [file_name.yml]`
+   - `conda env export —-prefix [env_folder_path] > [file_name.yml]`
 
    ***TO Create Env using .yml file***
    - `conda env create —file [file_name.yml] —name [environment_name]`
